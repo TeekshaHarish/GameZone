@@ -1,0 +1,27 @@
+.links{
+    text-decoration: none;
+    color:white;
+}
+.box{
+    height:30vh;
+    width:30vw;
+    background-color: blueviolet;
+    /* padding:20px; */
+    margin: 20px;
+}
+.navbar{
+    background-color: #4d154d;
+    color:white;
+    font-size: 25px;
+    padding: 5px 15px;
+    font-family: 'Roboto', sans-serif;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.myCard{
+    margin:5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
