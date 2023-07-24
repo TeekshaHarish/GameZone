@@ -32,3 +32,8 @@
 .brand:hover{
     color:rgb(249, 235, 221);
 }
+.myFooter{
+    position: fixed;
+    bottom: 0;
+    width:100vw;
+}
