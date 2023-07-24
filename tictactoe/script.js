@@ -52,6 +52,8 @@ Array.from(boxes).forEach(element => {
             checkWin();
             if (!gameOver) {
                 document.getElementsByClassName('info')[0].innerText = "Turn for " + turn;
+            }else{
+                gameOver=false;
             }
 
         }

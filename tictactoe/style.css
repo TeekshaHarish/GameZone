@@ -21,7 +21,7 @@
     /* background-color: yellow; */
     margin-top: 50px;
 }
-.container{
+.Mycontainer{
     display:grid;
     grid-template-rows: repeat(3,10vw);
     /* not in auto or pixels but use vw for reponsiveness */
